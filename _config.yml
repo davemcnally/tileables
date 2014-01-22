@@ -1,0 +1,5 @@
+site_name: 'Tileables'
+description: 'Never Ending Patterns'
+exclude: [node_modules, scss, Gruntfile.js, LICENSE, package.json, README.md]
+url: 'http://tileabl.es'
+name: 'Tileables'
