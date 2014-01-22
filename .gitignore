@@ -5,3 +5,5 @@ node_modules
 build
 .sass-cache
 npm-debug.log
+_includes/_gauges.html
+_includes/_twitterlinks.html
